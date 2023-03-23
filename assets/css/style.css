@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+/* Adjusted all tags that changed from div to regular elements */
+
 body {
     background-color: #d9dcd6;
 }
@@ -85,6 +87,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/* Cleaned up repetitive class selectors by grouping them together. */
 
 .benefit-lead,
 .benefit-brand,
