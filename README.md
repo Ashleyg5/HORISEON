@@ -9,7 +9,7 @@ This application was a part of my challenge 1 assignment for bootcamp. Within th
 
 This repository can be viewed in my Github page as well as live through the deployed page [here](https://ashleyg5.github.io/Horiseon/)
 
-I've included a screenshot of the deployed page. [Horiseon](01-html-css-git-homework-demo](https://user-images.githubusercontent.com/118938942/227384425-e61a2918-1bc0-4483-909d-5baab4ea7416.png)
+[Horiseon](01-html-css-git-homework-demo](https://user-images.githubusercontent.com/118938942/227384425-e61a2918-1bc0-4483-909d-5baab4ea7416.png)
 
 
 ## Credits
